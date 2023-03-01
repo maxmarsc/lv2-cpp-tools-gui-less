@@ -59,7 +59,7 @@ lv2soname_SOURCEDIR = programs/lv2soname
 lv2soname_INSTALLDIR = $(bindir)
 
 # extra files
-DOCS = COPYING AUTHORS README ChangeLog
+DOCS = COPYING AUTHORS README.md ChangeLog
 PCFILES = lv2-plugin.pc lv2-gui.pc paq.pc
 EXTRA_DIST = Doxyfile
 
