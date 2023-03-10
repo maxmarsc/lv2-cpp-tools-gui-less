@@ -1,5 +1,7 @@
 # lv2-c++-tools (without lv2gui)
-This repository contains a dead simple copy of the original [lv2-c++-tools](https://ll-plugins.nongnu.org/hacking.html) package without the `lv2gui` package. I made this because I didn't found how to build the package without `lv2gui` and I needed to build it from scratch.
+This repository contains a dead simple copy of the original [lv2-c++-tools](https://ll-plugins.nongnu.org/hacking.html) but only containing the source code for the `lv2plugin` library. Everything else has been removed.
+
+**It cannot build lv2gui, peg and paq**
 
 ## LV2-C++-TOOLS
 This software package contains libraries and programs that should make 
